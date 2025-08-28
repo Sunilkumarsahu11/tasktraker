@@ -12,4 +12,7 @@ npm install axios
 
 npm install react-router-dom
 
+npm install chart.js react-chartjs-2
+
+
 ```
